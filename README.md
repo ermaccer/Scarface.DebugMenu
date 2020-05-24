@@ -1,7 +1,7 @@
 # Scarface.DebugMenu
 A simple plugin to enable unused debug menu.
 
-Tested only with executable which is 15544320 bytes large.
+Supports 1.0 and 1.0.2 no cd executables.
 
 You will need Ultimate ASI Loader (https://github.com/ThirteenAG/Ultimate-ASI-Loader/releases), if you use SilentPatch then all you need to do is place the .asi file in main game directory.
 
